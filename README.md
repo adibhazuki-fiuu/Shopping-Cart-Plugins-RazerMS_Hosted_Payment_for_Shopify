@@ -15,7 +15,7 @@ Notes / Prerequisite
 
 Razer Merchant Services is not responsible for any problems that might arise from the use of this module. 
 Use at your own risk. Please backup any critical data before proceeding. For any query or 
-assistance, please email to support-sa@fiuu.com 
+assistance, please email to support@fiuu.com 
 
 
 Installations Guidance for Shopify Payment App
@@ -49,15 +49,15 @@ Issues
 > Kindly refer to their response to our queries:
 ![image](https://user-images.githubusercontent.com/2503209/191220011-85a93bbb-15b9-46d3-9083-78badabfe247.png)
 
-You can also submit an issue to this repository or email to our support-sa@fiuu.com
+You can also submit an issue to this repository or email to our support@fiuu.com
 
 Contact Support
 -------
 
-Merchant Technical Support / Customer Care : support-sa@fiuu.com <br>
-Sales/Reseller Enquiry : sales-sa@fiuu.com <br>
-Marketing Campaign : marketing-sa@fiuu.com <br>
-Channel/Partner Enquiry : channel-sa@fiuu.com <br>
-Media Contact : media-sa@fiuu.com <br>
-R&D and Tech-related Suggestion : technical-sa@fiuu.com <br>
-Abuse Reporting : abuse-sa@fiuu.com
+Merchant Technical Support / Customer Care : support@fiuu.com <br>
+Sales/Reseller Enquiry : sales@fiuu.com <br>
+Marketing Campaign : marketing@fiuu.com <br>
+Channel/Partner Enquiry : channel@fiuu.com <br>
+Media Contact : media@fiuu.com <br>
+R&D and Tech-related Suggestion : technical@fiuu.com <br>
+Abuse Reporting : abuse@fiuu.com
