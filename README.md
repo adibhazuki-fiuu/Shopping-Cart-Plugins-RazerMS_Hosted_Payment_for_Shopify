@@ -5,6 +5,10 @@
 
 Hosted Payment for Shopify developed by Razer Merchant Services technical team.
 
+UPDATE NOTICE
+-----
+Latest Shopping Cart plugin for Shopify moved to new URL https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_Hosted_Payment_for_Shopify
+
 Introduction
 -----
 
